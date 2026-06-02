@@ -1,0 +1,6 @@
+{
+    "winning_model": "DeepLearning",
+    "algorithm": "Feedforward Neural Network",
+    "accuracy": 0.9824561476707458,
+    "f1_score": 0.9861111111111112
+}
